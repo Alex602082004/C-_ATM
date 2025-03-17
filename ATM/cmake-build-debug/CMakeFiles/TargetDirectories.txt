@@ -1,0 +1,3 @@
+C:/Users/Alex/CLionProjects/lab2_sd/cmake-build-debug/CMakeFiles/lab2_sd.dir
+C:/Users/Alex/CLionProjects/lab2_sd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/CLionProjects/lab2_sd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
